@@ -1,4 +1,3 @@
-README.md: |
   # RestAssured API Automation Framework
 
   A scalable and modular **API Test Automation Framework** built with **Java, RestAssured, TestNG, Maven, and Log4j2**.  
@@ -14,8 +13,6 @@ README.md: |
   - Apache POI (Excel support)  
   - Extent Reports  
   - Log4j2  
-
-  ---
 
 
 ---
