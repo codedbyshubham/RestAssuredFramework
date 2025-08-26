@@ -34,7 +34,6 @@
   The framework uses the following base URL for API requests:
       https://petstore.swagger.io/v2
 
-      ---
 
   ## Running Tests
 
@@ -47,7 +46,6 @@
   Run with TestNG suite:
       mvn clean test -DsuiteXmlFile=testng.xml
 
-      ---
 
   ## Reports
   - TestNG reports are generated under:
